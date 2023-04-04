@@ -10,19 +10,19 @@
 
 Основы Java
 
-* Условные операторы и циклы [(task)](https://github.com/v0xp/conditional-statements-cycles);
-* Типы данных в Java: примитивы [(task)](https://github.com/v0xp/primitive-types);
+* Условные операторы и циклы [(task)](https://github.com/v0xp/conditional-statements-cycles)
+* Типы данных в Java: примитивы [(task)](https://github.com/v0xp/primitive-types)
 
 Хранение данных – массивы
 
-* Массивы одномерные [(task)](https://github.com/v0xp/one-dimensional-array);
-* Массивы многомерные [(task)](https://github.com/v0xp/multidimensional-array);
+* Массивы одномерные [(task)](https://github.com/v0xp/one-dimensional-array)
+* Массивы многомерные [(task)](https://github.com/v0xp/multidimensional-array)
 
 Основы ООП
 
-* Полиморфизм [(task)](https://github.com/v0xp/polymorphism);
-* Абстракции и интерфейсы [(task)](https://github.com/v0xp/abstractions-interfaces);
-* Исключения, Stacktrace [(task)](https://github.com/v0xp/exceptions);
+* Полиморфизм [(task)](https://github.com/v0xp/polymorphism)
+* Абстракции и интерфейсы [(task)](https://github.com/v0xp/abstractions-interfaces)
+* Исключения, Stacktrace [(task)](https://github.com/v0xp/exceptions)
 
 #### Курсовая работа
 [Курсовой проект «Конвертер в текстовую графику»](https://github.com/v0xp/java-diplom)
@@ -30,36 +30,36 @@
 
 #### Модуль Java Core
 Stream API, работа с файлами и сборка проектов
-* Лямбда-выражения и функциональные интерфейсы [(task1)](https://github.com/v0xp/lambda), [(task2)](https://github.com/v0xp/lambda-task2);
-* Stream API. Потоки, повторные вызовы, основные методы [(task1)](https://github.com/v0xp/streams), [(task2)](https://github.com/v0xp/streams-task2);
-* Потоки ввода-вывода. Работа с файлами. Сериализация [(task1)](https://github.com/v0xp/files), [(task2)](https://github.com/v0xp/files-task2);
-* Сборка проектов. Maven и Gradle [(task1)](https://github.com/v0xp/files), [(task2)](https://github.com/v0xp/files-task2);
-* Работа с файлами CSV, XML, JSON  [(task)](https://github.com/v0xp/special-files-JSON);
+* Лямбда-выражения и функциональные интерфейсы [(task1)](https://github.com/v0xp/lambda), [(task2)](https://github.com/v0xp/lambda-task2)
+* Stream API. Потоки, повторные вызовы, основные методы [(task1)](https://github.com/v0xp/streams), [(task2)](https://github.com/v0xp/streams-task2)
+* Потоки ввода-вывода. Работа с файлами. Сериализация [(task1)](https://github.com/v0xp/files), [(task2)](https://github.com/v0xp/files-task2)
+* Сборка проектов. Maven и Gradle [(task1)](https://github.com/v0xp/files), [(task2)](https://github.com/v0xp/files-task2)
+* Работа с файлами CSV, XML, JSON  [(task)](https://github.com/v0xp/special-files-JSON)
 
 
 Тестирование программы
-* Тестирование кода и Unit-тесты [(task)](https://github.com/v0xp/JUnit); 
-* Тестирование программы. Mockito [(task)](https://github.com/v0xp/geo-service-mockito);
+* Тестирование кода и Unit-тесты [(task)](https://github.com/v0xp/JUnit) 
+* Тестирование программы. Mockito [(task)](https://github.com/v0xp/geo-service-mockito)
 
 Работа с сетью
-* Основы работы с сетью. Модель OSI [(task)](https://github.com/v0xp/client-server); 
+* Основы работы с сетью. Модель OSI [(task)](https://github.com/v0xp/client-server) 
 
 #### Модуль Шаблоны проектирования
 Шаблоны проектирования
-* Порождающие шаблоны Builder, Singleton, Factory Method, Abstract Factory, Prototype [(task)](https://github.com/v0xp/creationalBuilder); 
-* Структурные шаблоны Proxy, Decorato [(task)](https://github.com/v0xp/structuralAdapter);
-* Поведенческие шаблоны Command, Iterator, Observer, Chain of Responsibility [(task)](https://github.com/v0xp/behaveIterator);
+* Порождающие шаблоны Builder, Singleton, Factory Method, Abstract Factory, Prototype [(task)](https://github.com/v0xp/creationalBuilder) 
+* Структурные шаблоны Proxy, Decorato [(task)](https://github.com/v0xp/structuralAdapter)
+* Поведенческие шаблоны Command, Iterator, Observer, Chain of Responsibility [(task)](https://github.com/v0xp/behaveIterator)
 
 #### Дипломная работа
-[Курсовая работа. «Менеджер задач»](https://github.com/v0xp/Diplom-javacore);
+[Курсовая работа. «Менеджер задач»](https://github.com/v0xp/Diplom-javacore)
 
-[Дипломное задание «Поисковая система»](https://github.com/v0xp/pcs-jd-diplom);
+[Дипломное задание «Поисковая система»](https://github.com/v0xp/pcs-jd-diplom)
 
 #### Веб-разработка
-[Многостраничный сайт на WordPress](https://github.com/v0xp/history-films);
+[Многостраничный сайт на WordPress](https://github.com/v0xp/history-films)
 
 #### Диплом Нетологии
-[Java-разработчик](https://github.com/v0xp/v0xp/blob/main/Diplom.pdf);
+[Java-разработчик](https://github.com/v0xp/v0xp/blob/main/Diplom.pdf)
 
 
 ### Технологии и инструменты  
