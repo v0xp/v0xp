@@ -38,7 +38,7 @@ Stream API, работа с файлами и сборка проектов
 
 
 Тестирование программы
-* Тестирование кода и Unit-тесты [(task)](https://github.com/v0xp/JUnit);
+* Тестирование кода и Unit-тесты [(task)](https://github.com/v0xp/JUnit); 
 * Тестирование программы. Mockito [(task)](https://github.com/v0xp/geo-service-mockito);
 
 Работа с сетью
@@ -52,6 +52,7 @@ Stream API, работа с файлами и сборка проектов
 
 #### Дипломная работа
 [Курсовая работа. «Менеджер задач»](https://github.com/v0xp/Diplom-javacore);
+
 [Дипломное задание «Поисковая система»](https://github.com/v0xp/pcs-jd-diplom);
 
 #### Веб-разработка
