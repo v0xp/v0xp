@@ -62,7 +62,7 @@ Stream API, работа с файлами и сборка проектов
 [Java-разработчик](https://github.com/v0xp/v0xp/blob/main/Diplom.pdf)
 
 #### Резюме
-[Резюме]([https://github.com/v0xp/v0xp/blob/main/Diplom.pdf](https://docs.google.com/document/d/13RSA_lFT0DfZ7iMftswRHW9_JF-FpLmYbXMY2sbgXQA/edit?pli=1#heading=h.5azv3ly4o3em))
+[Резюме](https://docs.google.com/document/d/13RSA_lFT0DfZ7iMftswRHW9_JF-FpLmYbXMY2sbgXQA/edit?pli=1#heading=h.5azv3ly4o3em)
 
 ### Технологии и инструменты  
 
