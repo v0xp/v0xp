@@ -65,6 +65,7 @@ Stream API, работа с файлами и сборка проектов
 #### Резюме
 [Резюме](https://docs.google.com/document/d/13RSA_lFT0DfZ7iMftswRHW9_JF-FpLmYbXMY2sbgXQA/edit?pli=1#heading=h.5azv3ly4o3em)
 
+![Codewars](https://github.r2v.ch/codewars?user=v0xp&stroke=COLOR)
 ### Технологии и инструменты  
 
 
